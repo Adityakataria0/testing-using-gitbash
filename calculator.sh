@@ -14,3 +14,6 @@
 
 # Division
  div = x/y
+
+# Floor Division
+ floordiv = x//y
