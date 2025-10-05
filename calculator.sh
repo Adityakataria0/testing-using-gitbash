@@ -3,8 +3,14 @@
 
 
 
+# Addition
+ add = x+y
 
-add = x+y
-sub = x-y
-mul = x*y
-div = x/y
+# Substraction
+ sub = x-y
+
+# Multiplication
+ mul = x*y
+
+# Division
+ div = x/y
